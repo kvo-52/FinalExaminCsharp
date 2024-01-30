@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qfEXFRI4YNxCMuGDXwsPg6SSYAFqBnjQNXW8djd7EbpNhgaO7zyV8xRhn4Rc0jHr5RVTmBnFrHxz6uS8hsA9zw==",
+  "dgSpecHash": "O6jMG44OwIVl997rH33/m/wIouT0WBpbrbIjLpQJFbIkQvJVRZqRSwHAeQZZPc0mwjxLJyJlFyM08kHSkwlGgw==",
   "success": true,
-  "projectFilePath": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\WebAppMessage\\WebAppMessage.csproj",
+  "projectFilePath": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\WebAppMessage\\WebAppMessageGetway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kvojo\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\kvojo\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

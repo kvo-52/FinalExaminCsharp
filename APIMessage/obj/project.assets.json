@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\APIMessage\\APIMessage.csproj",
-      "projectName": "APIMessage",
-      "projectPath": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\APIMessage\\APIMessage.csproj",
+      "projectUniqueName": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\APIMessage\\WebAppMessage.csproj",
+      "projectName": "WebAppMessage",
+      "projectPath": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\APIMessage\\WebAppMessage.csproj",
       "packagesPath": "C:\\Users\\kvojo\\.nuget\\packages\\",
       "outputPath": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\APIMessage\\obj\\",
       "projectStyle": "PackageReference",

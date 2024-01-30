@@ -433,9 +433,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\WebAppMessage\\WebAppMessage.csproj",
-      "projectName": "WebAppMessage",
-      "projectPath": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\WebAppMessage\\WebAppMessage.csproj",
+      "projectUniqueName": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\WebAppMessage\\WebAppMessageGetway.csproj",
+      "projectName": "WebAppMessageGetway",
+      "projectPath": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\WebAppMessage\\WebAppMessageGetway.csproj",
       "packagesPath": "C:\\Users\\kvojo\\.nuget\\packages\\",
       "outputPath": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\WebAppMessage\\obj\\",
       "projectStyle": "PackageReference",

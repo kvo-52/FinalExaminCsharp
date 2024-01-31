@@ -384,3 +384,4 @@ D:\GeekBrains\БЛОК-3_Developer\Developer_C#\5.FinalExamination\TestProject1\
 D:\GeekBrains\БЛОК-3_Developer\Developer_C#\5.FinalExamination\TestProject1\obj\Debug\net8.0\TestProject1.pdb
 D:\GeekBrains\БЛОК-3_Developer\Developer_C#\5.FinalExamination\TestProject1\obj\Debug\net8.0\TestProject1.genruntimeconfig.cache
 D:\GeekBrains\БЛОК-3_Developer\Developer_C#\5.FinalExamination\TestProject1\obj\Debug\net8.0\ref\TestProject1.dll
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\5.FinalExamination\TestProject1\bin\Debug\net8.0\CoverletSourceRootsMapping_TestProject1

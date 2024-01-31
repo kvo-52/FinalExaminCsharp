@@ -18,4 +18,10 @@
     <PackageReference Include="coverlet.collector" Version="6.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\WebAppGetway\WebAppGetway.csproj" />
+    <ProjectReference Include="..\WebApplUser\WebAppUser.csproj" />
+    <ProjectReference Include="..\WebAppMessage\WebAppMessage.csproj" />
+  </ItemGroup>
+
 </Project>

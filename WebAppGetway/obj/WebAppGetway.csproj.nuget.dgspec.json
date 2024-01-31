@@ -54,13 +54,17 @@
               "target": "Package",
               "version": "[8.0.0, )"
             },
+            "MMLib.SwaggerForOcelot": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[8.0.1, )"
             },
             "Ocelot": {
               "target": "Package",
-              "version": "[22.0.1, )"
+              "version": "[22.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

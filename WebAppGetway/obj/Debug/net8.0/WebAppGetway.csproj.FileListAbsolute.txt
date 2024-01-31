@@ -1,0 +1,8 @@
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\5.FinalExamination\WebAppGetway\obj\Debug\net8.0\WebAppGetway.csproj.AssemblyReference.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\5.FinalExamination\WebAppGetway\obj\Debug\net8.0\WebAppGetway.GeneratedMSBuildEditorConfig.editorconfig
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\5.FinalExamination\WebAppGetway\obj\Debug\net8.0\WebAppGetway.AssemblyInfoInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\5.FinalExamination\WebAppGetway\obj\Debug\net8.0\WebAppGetway.AssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\5.FinalExamination\WebAppGetway\obj\Debug\net8.0\WebAppGetway.csproj.CoreCompileInputs.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\5.FinalExamination\WebAppGetway\obj\Debug\net8.0\WebAppGetway.MvcApplicationPartsAssemblyInfo.cs
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\5.FinalExamination\WebAppGetway\obj\Debug\net8.0\WebAppGetway.MvcApplicationPartsAssemblyInfo.cache
+D:\GeekBrains\БЛОК-3_Developer\Developer_C#\5.FinalExamination\WebAppGetway\obj\Debug\net8.0\WebAppGetway.sourcelink.json

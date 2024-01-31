@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "t7Vt98pLchzn9gwyWJRMpRxJ4F3Vf3/h4bODbVGeDlY=",
+  "Source": "WebAppMessage",
+  "BasePath": "_content/WebAppMessage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\WebApplUser\\WebAppUser.csproj",
+      "Version": 2,
+      "Source": "WebAppUser",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

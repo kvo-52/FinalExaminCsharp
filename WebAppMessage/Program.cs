@@ -1,4 +1,7 @@
 
+using WebAppMessage.Abstraction;
+using WebAppMessage.Repositories;
+
 namespace WebAppMessage
 {
     public class Program
@@ -13,6 +16,8 @@ namespace WebAppMessage
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+            builder.Services.AddScoped<IMessageRepository, MessageRepository>();
 
             var app = builder.Build();
 

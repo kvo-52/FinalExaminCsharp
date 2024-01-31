@@ -2066,6 +2066,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Autofac >= 8.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.1",
       "Ocelot >= 22.0.1",
       "Swashbuckle.AspNetCore >= 6.4.0",
@@ -2122,6 +2123,10 @@
       "net8.0": {
         "targetAlias": "net8.0",
         "dependencies": {
+          "Autofac": {
+            "target": "Package",
+            "version": "[8.0.0, )"
+          },
           "Microsoft.AspNetCore.Authentication.JwtBearer": {
             "target": "Package",
             "version": "[8.0.1, )"

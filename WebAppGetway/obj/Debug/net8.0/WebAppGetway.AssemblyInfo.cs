@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAppGetway")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+83541c64a0f2fb73d3d69c3579a493a96c640dee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAppGetway")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAppGetway")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

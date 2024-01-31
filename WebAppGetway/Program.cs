@@ -4,7 +4,8 @@ using Microsoft.IdentityModel.Tokens;
 using Microsoft.OpenApi.Models;
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
-using WebAppUser.rsa;
+
+
 
 
 namespace WebAppGetway

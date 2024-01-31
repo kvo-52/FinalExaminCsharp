@@ -55,12 +55,14 @@ namespace WebAppGetway
                 ValidAudience = builder.Configuration["Jwt:Audience"],
                 IssuerSigningKey = new RsaSecurityKey(WebAppUser.rsa.RSAService.GetPublicKey())
             });
+
             IConfiguration cfg = new ConfigurationBuilder().AddJsonFile("ocelot.json").Build();
 
             builder.Services.AddOcelot(cfg);
             builder.Services.AddSwaggerForOcelot(cfg);
 
             var app = builder.Build();
+
             app.UseSwagger();
             app.UseSwaggerForOcelotUI(opt =>
             {

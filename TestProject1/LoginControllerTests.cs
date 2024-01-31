@@ -10,7 +10,7 @@ using WebAppUser.Abstraction;
 using WebAppUser.Controllers;
 using WebAppUser.Model;
 using WebAppUser.Repositories.DTO;
-using Mock;
+using Moq;
 
 
 namespace TestProject1

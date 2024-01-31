@@ -1,0 +1,34 @@
+{
+  "Version": 1,
+  "Hash": "NW4NCjhMjeF4Mn7kgSIlLCvPJaDBYOsQhqY+fUMF5Gg=",
+  "Source": "WebAppGetway",
+  "BasePath": "_content/WebAppGetway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\WebApplUser\\WebAppUser.csproj",
+      "Version": 2,
+      "Source": "WebAppUser",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    },
+    {
+      "Identity": "D:\\GeekBrains\\БЛОК-3_Developer\\Developer_C#\\5.FinalExamination\\WebAppMessage\\WebAppMessage.csproj",
+      "Version": 2,
+      "Source": "WebAppMessage",
+      "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
